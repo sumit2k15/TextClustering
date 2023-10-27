@@ -5,8 +5,6 @@ Created on Thu Oct 26 23:38:53 2023
 @author: SK075631
 """
 
-!pip install -r requirements.txt
-
 import streamlit as st
 
 
