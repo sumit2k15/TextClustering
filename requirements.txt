@@ -11,3 +11,4 @@ spacy == 3.6.1
 streamlit == 1.26.0
 top2vec == 1.0.29
 tqdm == 4.64.0
+openpyxl
