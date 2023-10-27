@@ -6,7 +6,7 @@ hdbscan == 0.8.33
 nltk == 3.7
 numpy == 1.26.1
 pandas == 1.4.2
-sklearn == 0.0.post1
+scikit-learn
 spacy == 3.6.1
 streamlit == 1.26.0
 top2vec == 1.0.29
