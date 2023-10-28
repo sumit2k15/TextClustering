@@ -7,7 +7,7 @@ nltk == 3.7
 numpy == 1.26.1
 pandas == 1.4.2
 scikit-learn
-spacy == 3.6.1
+spacy
 streamlit == 1.26.0
 top2vec == 1.0.29
 tqdm == 4.64.0
