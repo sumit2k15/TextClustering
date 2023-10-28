@@ -20,9 +20,11 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import random
 import re
 import unicodedata
+import spacy
 import nltk
 from nltk.corpus import stopwords
-import spacy
+import nltkmodule
+
 
 class TextPreprocessor:
     def __init__(self):
