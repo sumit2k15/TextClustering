@@ -12,4 +12,4 @@ streamlit == 1.26.0
 top2vec == 1.0.29
 tqdm == 4.64.0
 openpyxl
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.3.0/en_core_web_sm-3.3.0.tar.gz#egg=en_core_web_sm==3.3.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl
