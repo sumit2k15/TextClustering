@@ -7,7 +7,7 @@ Created on Thu Oct 26 23:38:53 2023
 
 import streamlit as st
 
-
+import base64
 import hdbscan
 import numpy as np
 import pandas as pd
