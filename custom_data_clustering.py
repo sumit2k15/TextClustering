@@ -22,8 +22,8 @@ import re
 import unicodedata
 import spacy
 import nltk
-from nltk.corpus import stopwords
 import nltkmodule
+from nltk.corpus import stopwords
 
 
 class TextPreprocessor:
